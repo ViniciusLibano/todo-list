@@ -61,6 +61,7 @@ h2 {
     height: 100%;
     border: none;
     background: none;
+    cursor: default;
 }
 
 #inpNewItem input:hover {
@@ -69,6 +70,7 @@ h2 {
 
 #inpNewItem input:focus {
     outline: none;
+    cursor: text;
 }
 
 #inpNewItem button {
